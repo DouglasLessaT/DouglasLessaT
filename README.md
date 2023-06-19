@@ -6,7 +6,7 @@
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=privateclasswizard&show_icons=true&theme=gruvbox"
-    media="(prefers-color-scheme: gruvbox)"
+    media="(prefers-color-scheme:gruvbox)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=privateclasswizard&show_icons=true"
