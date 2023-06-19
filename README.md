@@ -3,12 +3,18 @@
 - 🔭 I’m currently working on FullStack
 - 🌱 I’m currently learning Java and JavaScipt
 
-<div align="center">
-  <a href="https://github.com/privateclasswizard">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=privateclasswizard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=privateclasswizard&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-    
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=privateclassswizard&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=privateclassswizard&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=privateclassswizard&show_icons=true" />
+</picture>
+    privateclassswizard
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
