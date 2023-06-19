@@ -26,3 +26,21 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+EXPERIÊNCIA
+GERENTE ADMINISTRATIVO /DALTA MADAEIRAS, RIO MARINHO VILA-VELHA
+AGOSTO DE 2019-PRESENTE
+Gerenciamento Administrativo, organização das funções do escritório e supervisão de operações diárias do escritório com 8 funcionários. Contratação, treinamento e integração de funcionários. Integração com sistema na produção, vendas em um portifólio online. Os sistemas desenvolvidos na produção geraram economia nos gastos produtos de acabamento e matéria prima da empresa gerando economia 30% e adequando o preço para a venda das esquadrias de madeira. 
+
+DEV FREELANCER, VILA-VELHA
+AGOSTO DE 2020-PRESENTE
+Trabalho de freelancer fazendo sites com sistemas próprios para microempresas com intuito de expandir seus neg.
+
+EDUCAÇÃO
+BACHAREL EM ENGENHARIA DE SOFTWARE FACULDADE ESTACIO DE SÁ, VILA-VELHA ESPIRITO-SANTO
+JUNHO DE 2022-23
+BACHAREL EM ENGENHARIA DE SOFTWARE FACULDADE SALESIANO, VITORIA ESPIRITO-SANTO
+JUNHO DE 2023
+PRINCIPAIS HABILIDADES E CARACTERÍSTICAS
+Fortes habilidades interpessoais e de comunicação • MS Office Suite • JAVA • JavaScript • Desenvolvimento de Sistemas • Vendas • Solução de Problemas • Liderança • Atenção meticulosa aos detalhes •
+
