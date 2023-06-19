@@ -5,7 +5,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=privateclasswizard&show_icons=true&theme=shadow_red"
+    srcset="https://github-readme-stats.vercel.app/api?username=privateclasswizard&show_icons=true&theme=transparent"
     media="(prefers-color-scheme: dark)"
   />
   <source
