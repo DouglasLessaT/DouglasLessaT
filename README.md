@@ -19,14 +19,3 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-EDUCAÇÃO
-
-BACHAREL EM ENGENHARIA DE SOFTWARE FACULDADE ESTACIO DE SÁ, VILA-VELHA ESPIRITO-SANTO
-JUNHO DE 2022-23
-BACHAREL EM ENGENHARIA DE SOFTWARE FACULDADE SALESIANO, VITORIA ESPIRITO-SANTO
-JUNHO DE 2023
-PRINCIPAIS HABILIDADES E CARACTERÍSTICAS
-Fortes habilidades interpessoais e de comunicação • MS Office Suite • JAVA • JavaScript • Desenvolvimento de Sistemas • Vendas • Solução de Problemas • Liderança • Atenção
-meticulosa aos detalhes •
-
