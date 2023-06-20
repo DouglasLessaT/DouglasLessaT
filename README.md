@@ -1,4 +1,3 @@
-## Oi eu sou a Douglas!
 
 - 🔭 I’m currently working on FullStack
 - 🌱 I’m currently learning Java and JavaScipt
