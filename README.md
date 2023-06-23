@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on FullStack
+- 🔭 I'm currently studying to work as a DevSecOps
 - 🌱 I’m currently learning Java and JavaScipt
 
 <div align="center">
