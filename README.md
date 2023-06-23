@@ -1,8 +1,6 @@
 
 - 🔭 I'm currently studying to work as a DevSecOps
 - 🌱 I’m currently learning Java and JavaScipt
- <img align="center" alt="doulgas" height="40" width="40" src="https://i.pinimg.com/originals/f9/d2/0e/f9d20eaf4a178d5e721ac9dafa468633.png">
- 
 <div align="center">
   <a href="https://github.com/privateclasswizard">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=privateclasswizard&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
