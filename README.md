@@ -8,7 +8,7 @@
 </div>
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="doulgas" height="40" width="40" src="https://i.pinimg.com/originals/f9/d2/0e/f9d20eaf4a178d5e721ac9dafa468633.png">
+  <img align="center" alt="doulgas" height="40" width="40" src="https://media.tenor.com/ptl9U5YvK_wAAAAj/shiny-charizard-fire.gif">
   <img align="center" alt="Rafa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
