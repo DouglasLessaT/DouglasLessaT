@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/privateclasswizard">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=privateclasswizard&theme=github_dark_dimmed&show_icons=true)
+  ![privateclasswizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=privateclasswizard&theme=github_dark_dimmed&show_icons=true)
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=privateclasswizard&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
 
