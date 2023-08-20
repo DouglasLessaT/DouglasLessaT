@@ -1,7 +1,7 @@
 - 🔭 I'm currently studying to work as a DevSecOps
 - 🌱 I’m currently learning Java and JavaScipt and typescript
 
-<div align="center">
+<div>
   <a href="https://github.com/privateclasswizard">
 
   ![privateclasswizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=privateclasswizard&theme=github_dark_dimmed&show_icons=true)
