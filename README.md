@@ -1,22 +1,13 @@
 - 🔭 I'm currently studying to work as a DevSecOps
 - 🌱 I’m currently learning Java and JavaScipt and typescript
 
-<div>
-  <a href="https://github.com/privateclasswizard">
-    <div>
-  
-  ![privateclasswizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=privateclasswizard&theme=github_dark_dimmed&show_icons=true)
 
-  </div>
+![privateclasswizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=privateclasswizard&theme=github_dark_dimmed&show_icons=true)
 
-  
-  <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=privateclasswizard&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
-  </div>
-  
-  </a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=privateclasswizard&layout=compact)
 
-</div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=privateclasswizard&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
+
 <div align="center">
 _________________
 The technologies I'm using daily_________________
