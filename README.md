@@ -1,4 +1,4 @@
-- 🔭 I'm currently studying to work as a DevSecOps
+- 🔭 I'm currently studying to work as a Dev
 - 🌱 I’m currently learning Java, JavaScipt and typescript
 
 
