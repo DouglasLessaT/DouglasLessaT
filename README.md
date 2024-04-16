@@ -1,6 +1,6 @@
 - 🔭 I'm currently studying to work as a Dev
 - 🌱 I’m currently learning Java, JavaScipt, Typescript, C#, PowerShell and ShellScript
-
+- My Web site Curriculo https://privateclasswizard.github.io/curriculo/#/
 
 ![privateclasswizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=privateclasswizard&theme=github_dark_dimmed&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=privateclasswizard&layout=compact&langs_count=7&theme=github_dark_dimmed)
 
