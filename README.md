@@ -34,3 +34,4 @@ _________ The technologies I'm using daily _________
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b09ac28a-42e9-4e40-9bbd-ca2118e965e3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
