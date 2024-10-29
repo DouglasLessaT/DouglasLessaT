@@ -1,11 +1,7 @@
 - 🔭 I'm currently studying to work as a Dev
 - 🌱 I’m currently learning Java, JavaScipt, Typescript, ShellScript
 - My Web site Curriculo https://privateclasswizard.github.io/curriculo/#/
-
-![privateclasswizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasLessaT&theme=github_dark_dimmed&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasLessaT&layout=compact&langs_count=7&theme=github_dark_dimmed)
-
 <div align="center">
-
 _________ The technologies I'm using daily _________
 
 ![Skkils](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
