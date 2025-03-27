@@ -1,7 +1,7 @@
 - 🔭 I'm currently studying to work as a Dev
 - 🌱 I’m currently learning Java, JavaScipt, Typescript, ShellScript
-- My Web site Curriculum [MEU CURRICULO](https://douglaslessat.github.io/curriculo/#/)
-- My Libery [MINHA BIBLIOTECA](https://github.com/DouglasLessaT/MyLibrary.git)
+- This is Web Curriculum [MEU CURRICULO](https://douglaslessat.github.io/curriculo/#/)
+- This is my Libery [MINHA BIBLIOTECA](https://github.com/DouglasLessaT/MyLibrary.git)
   
 <div align="center">
 _________ The technologies I'm using daily _________
