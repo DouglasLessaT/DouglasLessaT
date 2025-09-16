@@ -6,7 +6,6 @@
 </div>
 <div align="center">
 <br/>
-<img src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://kirokazepixel.tumblr.com/post/675820997410275328/office-day)">
-
+<img src="https://64.media.tumblr.com/677428305a191be6292b953c224eaa14/2b8f60ec92192a15-be/s1280x1920/b8b3531ab88f320d70526e74ddeec55e72692021.gifv">
 <br/>
 </div>
