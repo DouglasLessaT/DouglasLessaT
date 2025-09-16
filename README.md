@@ -1,3 +1,1 @@
-- 🔭 I'm currently studying to work as a Dev
-- 🌱 I’m currently learning Java, JavaScipt, Typescript, ShellScript
-- This is  [WEB CURRICULO/ WEB CURRICULUM](https://douglaslessat.github.io/douglasCurriculum/)
+[WEB CURRICULO/ WEB CURRICULUM](https://douglaslessat.github.io/douglasCurriculum/)
