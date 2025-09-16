@@ -1,4 +1,3 @@
 - 🔭 I'm currently studying to work as a Dev
 - 🌱 I’m currently learning Java, JavaScipt, Typescript, ShellScript
 - This is Web Curriculum [MEU CURRICULO](https://douglaslessat.github.io/douglasCurriculum/)
-- This is my Libery [MINHA BIBLIOTECA](https://github.com/DouglasLessaT/MyLibrary.git)
