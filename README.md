@@ -9,5 +9,5 @@
  
 </div>
 <div align="center">
-<img src="https://64.media.tumblr.com/677428305a191be6292b953c224eaa14/2b8f60ec92192a15-be/s1280x1920/b8b3531ab88f320d70526e74ddeec55e72692021.gifv">
+<img src="https://images.steamusercontent.com/ugc/170412021733266950/1CD0513C34E143D362389DD0D9F2CC0B3BBB2123/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </div>
